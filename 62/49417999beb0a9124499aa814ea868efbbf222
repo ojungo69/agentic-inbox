@@ -1,0 +1,20 @@
+tests/atomic-email-create.test.mjs
+  h_f0264a10fd2443 1-104
+tests/fixtures/mailbox-worker.mjs
+  h_f0264a10fd2443 1-17
+tests/fixtures/mailbox.wrangler.json
+  h_f0264a10fd2443 1-9
+workers/durableObject/index.ts
+  h_f0264a10fd2443 846-872
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6249417999beb0a9124499aa814ea868efbbf222",
+  "prompts": {},
+  "humans": {
+    "h_f0264a10fd2443": {
+      "author": "ojungo69 <jurarawww@gmail.com>"
+    }
+  }
+}
