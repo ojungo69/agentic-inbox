@@ -1,0 +1,43 @@
+docs/superpowers/specs/2026-06-30-multi-forwarding-design.md
+  s_f7d8663ba9ca22::t_ffdc4b1e1e4476 20,64
+workers/queue-runtime.test.ts
+  s_f7d8663ba9ca22::t_1dba4afd888b54 1-44
+workers/app.ts
+  s_07b616e91491f6::t_dba923633c284b 5,186
+workers/index.ts
+  s_07b616e91491f6::t_6663489bfe5658 24,833-834,842
+workers/lib/email-helpers.test.ts
+  s_07b616e91491f6::t_9d9db4ce177c45 6-7
+workers/lib/email-helpers.ts
+  s_07b616e91491f6::t_0814f07cfbc277 335-337
+workers/lib/tools.ts
+  s_07b616e91491f6::t_631f05798da8b6 30,407-414,461,526
+workers/routes/send-size-guard.test.ts
+  s_07b616e91491f6::t_725072111a0062 188-278,375-420
+wrangler.jsonc
+  s_07b616e91491f6::t_fd70bacfd19d74 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3549cbb8dac94a5a3cf6e79228a6c413dce43dea",
+  "prompts": {},
+  "sessions": {
+    "s_07b616e91491f6": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19547-11ed-74c1-9bac-cf085b45d101",
+        "model": "unknown"
+      },
+      "human_author": "ojungo69 <jurarawww@gmail.com>"
+    },
+    "s_f7d8663ba9ca22": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2e343027-8930-48b0-bff0-3b413d0fb70d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "ojungo69 <jurarawww@gmail.com>"
+    }
+  }
+}
