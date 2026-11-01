@@ -1,0 +1,25 @@
+tests/inbound-threading.test.mjs
+  s_e1a4e5cd12a792::t_59779c300db36d 1-184
+workers/durableObject/index.ts
+  s_e1a4e5cd12a792::t_e617816e2d13cf 742-755
+workers/durableObject/migrations.ts
+  s_e1a4e5cd12a792::t_8f6015ce10737a 171-174
+workers/index.ts
+  s_e1a4e5cd12a792::t_04fcffa7dc7893 383-397,404
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8d2006dc730ea2ecb349ea547c1021d9963fc0db",
+  "prompts": {},
+  "sessions": {
+    "s_e1a4e5cd12a792": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a19579-fbd6-7371-9ae9-64121bcb8d52",
+        "model": "unknown"
+      },
+      "human_author": "ojungo69 <jurarawww@gmail.com>"
+    }
+  }
+}
